@@ -39,56 +39,466 @@
 37,forward38.png,1
 38,forward39.png,1
 39,forward40.png,1
-40,forward41.png,1
-41,forward42.png,1
-42,forward43.png,1
+40,Forward Left41.png,7
+41,Forward Left42.png,7
+42,Forward Left43.png,7
 43,forward44.png,1
-44,Forward Right45.png,6
-45,Right46.png,3
-46,Right47.png,3
-47,Right48.png,3
-48,Right49.png,3
-49,Right50.png,3
-50,Right51.png,3
-51,Right52.png,3
-52,Right53.png,3
-53,Forward Right54.png,6
-54,Forward Right55.png,6
-55,Forward Right56.png,6
-56,Forward Right57.png,6
-57,Forward Right58.png,6
-58,Forward Right59.png,6
-59,Forward Right60.png,6
-60,Forward Right61.png,6
-61,Forward Right62.png,6
-62,Forward Right63.png,6
-63,Forward Right64.png,6
-64,Forward Right65.png,6
-65,Forward Right66.png,6
-66,Forward Right67.png,6
-67,Forward Right68.png,6
-68,Forward Right69.png,6
-69,Forward Right70.png,6
-70,Forward Right71.png,6
+44,Forward Left45.png,7
+45,Forward Left46.png,7
+46,Forward Left47.png,7
+47,Forward Left48.png,7
+48,Forward Left49.png,7
+49,Forward Left50.png,7
+50,Forward Left51.png,7
+51,Forward Left52.png,7
+52,Forward Left53.png,7
+53,Forward Left54.png,7
+54,Forward Left55.png,7
+55,Forward Left56.png,7
+56,Forward Left57.png,7
+57,Forward Left58.png,7
+58,Forward Left59.png,7
+59,Forward Left60.png,7
+60,Forward Left61.png,7
+61,Forward Left62.png,7
+62,forward63.png,1
+63,forward64.png,1
+64,forward65.png,1
+65,forward66.png,1
+66,forward67.png,1
+67,forward68.png,1
+68,forward69.png,1
+69,forward70.png,1
+70,forward71.png,1
 71,forward72.png,1
-72,Reverse73.png,2
-73,Reverse74.png,2
-74,Reverse75.png,2
-75,Reverse76.png,2
-76,Reverse77.png,2
-77,Reverse78.png,2
-78,Reverse79.png,2
-79,Reverse80.png,2
-80,Reverse81.png,2
-81,Reverse82.png,2
-82,Reverse83.png,2
-83,Reverse84.png,2
-84,Reverse85.png,2
-85,Reverse86.png,2
-86,Reverse87.png,2
-87,Reverse88.png,2
-88,Reverse89.png,2
-89,Reverse90.png,2
-90,Reverse91.png,2
-91,Reverse92.png,2
-92,Reverse93.png,2
+72,forward73.png,1
+73,forward74.png,1
+74,forward75.png,1
+75,forward76.png,1
+76,forward77.png,1
+77,forward78.png,1
+78,forward79.png,1
+79,forward80.png,1
+80,forward81.png,1
+81,forward82.png,1
+82,forward83.png,1
+83,forward84.png,1
+84,forward85.png,1
+85,forward86.png,1
+86,forward87.png,1
+87,forward88.png,1
+88,forward89.png,1
+89,forward90.png,1
+90,forward91.png,1
+91,forward92.png,1
+92,forward93.png,1
+93,forward94.png,1
+94,forward95.png,1
+95,forward96.png,1
+96,forward97.png,1
+97,forward98.png,1
+98,forward99.png,1
+99,forward100.png,1
+100,forward101.png,1
+101,forward102.png,1
+102,forward103.png,1
+103,forward104.png,1
+104,forward105.png,1
+105,forward106.png,1
+106,forward107.png,1
+107,forward108.png,1
+108,forward109.png,1
+109,forward110.png,1
+110,forward111.png,1
+111,forward112.png,1
+112,forward113.png,1
+113,forward114.png,1
+114,forward115.png,1
+115,forward116.png,1
+116,forward117.png,1
+117,forward118.png,1
+118,forward119.png,1
+119,forward120.png,1
+120,forward121.png,1
+121,forward122.png,1
+122,forward123.png,1
+123,forward124.png,1
+124,forward125.png,1
+125,forward126.png,1
+126,forward127.png,1
+127,forward128.png,1
+128,forward129.png,1
+129,forward130.png,1
+130,forward131.png,1
+131,forward132.png,1
+132,forward133.png,1
+133,forward134.png,1
+134,forward135.png,1
+135,forward136.png,1
+136,forward137.png,1
+137,forward138.png,1
+138,forward139.png,1
+139,forward140.png,1
+140,forward141.png,1
+141,forward142.png,1
+142,forward143.png,1
+143,forward144.png,1
+144,forward145.png,1
+145,forward146.png,1
+146,forward147.png,1
+147,forward148.png,1
+148,forward149.png,1
+149,forward150.png,1
+150,forward151.png,1
+151,forward152.png,1
+152,forward153.png,1
+153,forward154.png,1
+154,forward155.png,1
+155,forward156.png,1
+156,forward157.png,1
+157,forward158.png,1
+158,forward159.png,1
+159,forward160.png,1
+160,forward161.png,1
+161,forward162.png,1
+162,forward163.png,1
+163,forward164.png,1
+164,forward165.png,1
+165,forward166.png,1
+166,forward167.png,1
+167,forward168.png,1
+168,forward169.png,1
+169,Forward Left170.png,7
+170,Forward Left171.png,7
+171,Forward Left172.png,7
+172,Forward Left173.png,7
+173,Forward Left174.png,7
+174,Forward Left175.png,7
+175,Forward Left176.png,7
+176,Forward Left177.png,7
+177,Forward Left178.png,7
+178,Forward Left179.png,7
+179,forward180.png,1
+180,forward181.png,1
+181,forward182.png,1
+182,forward183.png,1
+183,forward184.png,1
+184,forward185.png,1
+185,forward186.png,1
+186,forward187.png,1
+187,forward188.png,1
+188,forward189.png,1
+189,forward190.png,1
+190,forward191.png,1
+191,forward192.png,1
+192,forward193.png,1
+193,forward194.png,1
+194,forward195.png,1
+195,forward196.png,1
+196,forward197.png,1
+197,forward198.png,1
+198,forward199.png,1
+199,forward200.png,1
+200,forward201.png,1
+201,forward202.png,1
+202,forward203.png,1
+203,forward204.png,1
+204,forward205.png,1
+205,forward206.png,1
+206,forward207.png,1
+207,forward208.png,1
+208,forward209.png,1
+209,forward210.png,1
+210,forward211.png,1
+211,forward212.png,1
+212,forward213.png,1
+213,forward214.png,1
+214,forward215.png,1
+215,forward216.png,1
+216,forward217.png,1
+217,forward218.png,1
+218,forward219.png,1
+219,forward220.png,1
+220,forward221.png,1
+221,forward222.png,1
+222,forward223.png,1
+223,forward224.png,1
+224,forward225.png,1
+225,forward226.png,1
+226,forward227.png,1
+227,forward228.png,1
+228,forward229.png,1
+229,forward230.png,1
+230,forward231.png,1
+231,forward232.png,1
+232,forward233.png,1
+233,forward234.png,1
+234,forward235.png,1
+235,forward236.png,1
+236,forward237.png,1
+237,forward238.png,1
+238,forward239.png,1
+239,forward240.png,1
+240,forward241.png,1
+241,forward242.png,1
+242,forward243.png,1
+243,forward244.png,1
+244,forward245.png,1
+245,forward246.png,1
+246,forward247.png,1
+247,forward248.png,1
+248,forward249.png,1
+249,forward250.png,1
+250,forward251.png,1
+251,forward252.png,1
+252,forward253.png,1
+253,forward254.png,1
+254,forward255.png,1
+255,forward256.png,1
+256,forward257.png,1
+257,forward258.png,1
+258,forward259.png,1
+259,forward260.png,1
+260,forward261.png,1
+261,forward262.png,1
+262,forward263.png,1
+263,forward264.png,1
+264,forward265.png,1
+265,forward266.png,1
+266,forward267.png,1
+267,forward268.png,1
+268,forward269.png,1
+269,forward270.png,1
+270,forward271.png,1
+271,Left272.png,4
+272,Left273.png,4
+273,Left274.png,4
+274,Left275.png,4
+275,Left276.png,4
+276,Left277.png,4
+277,Left278.png,4
+278,Left279.png,4
+279,forward280.png,1
+280,forward281.png,1
+281,Forward Left282.png,7
+282,Forward Left283.png,7
+283,Forward Left284.png,7
+284,Forward Left285.png,7
+285,forward286.png,1
+286,forward287.png,1
+287,forward288.png,1
+288,forward289.png,1
+289,forward290.png,1
+290,forward291.png,1
+291,forward292.png,1
+292,forward293.png,1
+293,forward294.png,1
+294,forward295.png,1
+295,forward296.png,1
+296,forward297.png,1
+297,forward298.png,1
+298,forward299.png,1
+299,forward300.png,1
+300,forward301.png,1
+301,forward302.png,1
+302,forward303.png,1
+303,forward304.png,1
+304,forward305.png,1
+305,Forward Left306.png,7
+306,Forward Left307.png,7
+307,Forward Left308.png,7
+308,Forward Left309.png,7
+309,forward310.png,1
+310,forward311.png,1
+311,forward312.png,1
+312,forward313.png,1
+313,forward314.png,1
+314,forward315.png,1
+315,forward316.png,1
+316,forward317.png,1
+317,forward318.png,1
+318,forward319.png,1
+319,forward320.png,1
+320,forward321.png,1
+321,forward322.png,1
+322,forward323.png,1
+323,forward324.png,1
+324,forward325.png,1
+325,forward326.png,1
+326,forward327.png,1
+327,forward328.png,1
+328,forward329.png,1
+329,forward330.png,1
+330,forward331.png,1
+331,forward332.png,1
+332,forward333.png,1
+333,forward334.png,1
+334,forward335.png,1
+335,forward336.png,1
+336,forward337.png,1
+337,forward338.png,1
+338,forward339.png,1
+339,forward340.png,1
+340,forward341.png,1
+341,forward342.png,1
+342,forward343.png,1
+343,forward344.png,1
+344,forward345.png,1
+345,forward346.png,1
+346,forward347.png,1
+347,forward348.png,1
+348,forward349.png,1
+349,forward350.png,1
+350,forward351.png,1
+351,forward352.png,1
+352,forward353.png,1
+353,forward354.png,1
+354,forward355.png,1
+355,forward356.png,1
+356,forward357.png,1
+357,forward358.png,1
+358,forward359.png,1
+359,forward360.png,1
+360,forward361.png,1
+361,forward362.png,1
+362,forward363.png,1
+363,forward364.png,1
+364,forward365.png,1
+365,forward366.png,1
+366,forward367.png,1
+367,forward368.png,1
+368,forward369.png,1
+369,forward370.png,1
+370,forward371.png,1
+371,forward372.png,1
+372,forward373.png,1
+373,forward374.png,1
+374,forward375.png,1
+375,forward376.png,1
+376,forward377.png,1
+377,forward378.png,1
+378,forward379.png,1
+379,forward380.png,1
+380,forward381.png,1
+381,forward382.png,1
+382,forward383.png,1
+383,forward384.png,1
+384,forward385.png,1
+385,forward386.png,1
+386,forward387.png,1
+387,forward388.png,1
+388,forward389.png,1
+389,forward390.png,1
+390,forward391.png,1
+391,Forward Left392.png,7
+392,Forward Left393.png,7
+393,Forward Left394.png,7
+394,Forward Left395.png,7
+395,Forward Left396.png,7
+396,Forward Left397.png,7
+397,forward398.png,1
+398,forward399.png,1
+399,forward400.png,1
+400,forward401.png,1
+401,forward402.png,1
+402,forward403.png,1
+403,forward404.png,1
+404,forward405.png,1
+405,forward406.png,1
+406,forward407.png,1
+407,forward408.png,1
+408,forward409.png,1
+409,forward410.png,1
+410,forward411.png,1
+411,forward412.png,1
+412,forward413.png,1
+413,forward414.png,1
+414,forward415.png,1
+415,forward416.png,1
+416,forward417.png,1
+417,forward418.png,1
+418,forward419.png,1
+419,forward420.png,1
+420,forward421.png,1
+421,forward422.png,1
+422,forward423.png,1
+423,forward424.png,1
+424,forward425.png,1
+425,forward426.png,1
+426,forward427.png,1
+427,forward428.png,1
+428,forward429.png,1
+429,forward430.png,1
+430,forward431.png,1
+431,forward432.png,1
+432,forward433.png,1
+433,forward434.png,1
+434,forward435.png,1
+435,forward436.png,1
+436,forward437.png,1
+437,forward438.png,1
+438,forward439.png,1
+439,forward440.png,1
+440,forward441.png,1
+441,forward442.png,1
+442,forward443.png,1
+443,forward444.png,1
+444,forward445.png,1
+445,forward446.png,1
+446,forward447.png,1
+447,forward448.png,1
+448,forward449.png,1
+449,forward450.png,1
+450,forward451.png,1
+451,forward452.png,1
+452,forward453.png,1
+453,forward454.png,1
+454,forward455.png,1
+455,forward456.png,1
+456,forward457.png,1
+457,forward458.png,1
+458,forward459.png,1
+459,forward460.png,1
+460,forward461.png,1
+461,forward462.png,1
+462,forward463.png,1
+463,forward464.png,1
+464,forward465.png,1
+465,forward466.png,1
+466,forward467.png,1
+467,forward468.png,1
+468,forward469.png,1
+469,forward470.png,1
+470,forward471.png,1
+471,forward472.png,1
+472,forward473.png,1
+473,forward474.png,1
+474,forward475.png,1
+475,Forward Left476.png,7
+476,Forward Left477.png,7
+477,Forward Left478.png,7
+478,Forward Left479.png,7
+479,Forward Left480.png,7
+480,Forward Left481.png,7
+481,Forward Left482.png,7
+482,Forward Left483.png,7
+483,forward484.png,1
+484,forward485.png,1
+485,forward486.png,1
+486,forward487.png,1
+487,forward488.png,1
+488,forward489.png,1
+489,forward490.png,1
+490,forward491.png,1
+491,forward492.png,1
+492,forward493.png,1
+493,forward494.png,1
+494,forward495.png,1
+495,forward496.png,1
+496,forward497.png,1
+497,forward498.png,1
+498,forward499.png,1
+499,forward500.png,1
+500,forward501.png,1
+501,forward502.png,1
+502,forward503.png,1
